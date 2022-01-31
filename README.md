@@ -15,7 +15,7 @@ py -m venv env
 ### Activer l'environnement virtuel
 
 ```bash
-env\Scripts\activate.bat
+source env\Scripts\activate
 ```
 
 ### Installer les dépendances
